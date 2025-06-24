@@ -2,10 +2,10 @@
 
 ## 🧭 Overview
 
-**Thingsly** (Things + -ly) is an open-source IoT platform developed by Vietnamese engineers and maintained by the Thingsly team.
+<!-- **Thingsly** (Things + -ly) is an open-source IoT platform developed by Vietnamese engineers and maintained by the Thingsly team. -->
 
 It helps developers of IoT software and hardware monitor and manage their projects efficiently via a professional, unified **Web Dashboard** and **iOS/Android apps**. Thingsly also provides a comprehensive SDK to simplify device connection and management.
-
+<!-- 
 ### 🔌 Main Plugin Categories
 
 * **Device Template**: Binds device models with protocol plug-ins.
@@ -56,6 +56,8 @@ It helps developers of IoT software and hardware monitor and manage their projec
 
 ---
 
+-->
+
 ## ⚙️ Key Features
 
 * **Multi-Tenant**: Admin panel for tenant, account, and device management.
@@ -70,7 +72,6 @@ It helps developers of IoT software and hardware monitor and manage their projec
 * **System Log**: Tracks IP and device operations.
 * **User Management**: Casbin-based RBAC, project-level permissions.
 * **System Settings**: Custom logos, titles, and UI themes.
-* **IoT Mobile App**: Built with Uniapp. QR device pairing, control, monitoring, logs, and user switching.
 
 ---
 
