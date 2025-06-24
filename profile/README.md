@@ -4,10 +4,11 @@
 
 ## 🧭 Sơ lược
 
-**Thingsly** (Things (Mọi vật) + ly ) là nền tảng IoT mã nguồn mở do người Việt phát triển, được xây dựng và vận hành bởi đội ngũ Thingsly.
+<!-- **Thingsly** (Things (Mọi vật) + ly ) là nền tảng IoT mã nguồn mở do người Việt phát triển, được xây dựng và vận hành bởi đội ngũ Thingsly. -->
 
-Nền tảng hỗ trợ nhà phát triển phần mềm và thiết bị IoT dễ dàng theo dõi và quản lý dự án qua **Web Dashboard** và ứng dụng **iOS/Android**. Ngoài ra, bộ thư viện do **Thingsly** phát triển giúp kết nối và quản lý thiết bị IoT một cách đơn giản và hiệu quả.
+Nền tảng hỗ trợ nhà phát triển phần mềm và thiết bị IoT dễ dàng theo dõi và quản lý dự án qua **Web Dashboard**. Ngoài ra, bộ thư viện do **Thingsly** phát triển giúp kết nối và quản lý thiết bị IoT một cách đơn giản và hiệu quả.
 
+<!-- 
 ### 🔌 Các loại plugin chính:
 
 - **Device Template**: Gắn kết model thiết bị với plugin giao thức.
@@ -17,6 +18,8 @@ Nền tảng hỗ trợ nhà phát triển phần mềm và thiết bị IoT d�
 
 ---
 
+-->
+<!-- 
 ## 🚀 Sản phẩm
 
 - **Unified Equipment Management**
@@ -40,10 +43,10 @@ Nền tảng hỗ trợ nhà phát triển phần mềm và thiết bị IoT d�
 - **Ease of Use**: Đơn giản hóa IoT cho người phát triển.
 - **Compatibility**: Hỗ trợ nhiều loại giao thức thiết bị.
 - **Component-Based Architecture**: Thiết kế mở, dễ tùy biến và mở rộng.
-
+-->
 ---
 
-## 🎯 Giá trị cốt lõi
+<!-- ## 🎯 Giá trị cốt lõi
 
 ### 🚀 Tăng hiệu suất
 
@@ -57,6 +60,8 @@ Nền tảng hỗ trợ nhà phát triển phần mềm và thiết bị IoT d�
 - **Tiết kiệm >70%** chi phí vận hành/bảo trì.
 
 ---
+
+-->
 
 ## ⚙️ Chức năng chính
 
@@ -72,7 +77,6 @@ Nền tảng hỗ trợ nhà phát triển phần mềm và thiết bị IoT d�
 - **System Log**: Ghi nhận IP, thao tác thiết bị.
 - **User Management**: Casbin, phân quyền trang, phân vai trò, quản lý theo dự án.
 - **System Settings**: Đổi logo, tiêu đề, giao diện.
-- **IoT Mobile App**: Uniapp, quét mã thêm thiết bị, giám sát, điều khiển, chuyển dự án,...
 
 ---
 
